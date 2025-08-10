@@ -1,0 +1,8 @@
+Group,BinSize,Quantity,TrayPosition,Compartments,Features
+2,10x10,2,0:90,1x1,base
+2,10x20,8,0:160:90,1x2,base+magnet
+2,10x30,2,240:30,1x3,base+magnet
+2,10x50,2,0:50:0,1x5,base+magnet+label
+2,20x20,6,0:120:60,2x2,base+magnet
+2,20x20,8,120:280:60,2x2,base+magnet+label
+2,30x30,8,0:240:30,3x3,base+magnet+scoop
