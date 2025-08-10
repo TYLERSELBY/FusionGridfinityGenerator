@@ -1,0 +1,9 @@
+GROUP3_BINS:
+10x20,12,Level6,Pos[0-240,140]
+10x30,2,Level6,Pos[240,140]
+10x40,4,Level2,Pos[120-200,40]
+10x50,4,Level1,Pos[0-200,0]
+20x20,14,Level5,Pos[0-280,100]
+20x30,10,Level3,Pos[distributed,60-80]
+20x40,6,Level2,Pos[0-120,40]
+30x30,12,Level3,Pos[distributed,60-80]

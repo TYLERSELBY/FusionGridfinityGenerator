@@ -1,2 +1,0 @@
-class UnsupportedDesignTypeException(Exception):
-    pass
